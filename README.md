@@ -10,7 +10,7 @@ I hold a Graduate Certificate in Data Science (RMIT University) and I'm currentl
 |---|---|---|
 | [seed-train-planner](https://github.com/steven-byrne/seed-train-planner) | Interactive seed train planner: compares expansion strategies and back-schedules passages from a bioreactor start date | R, Shiny, Plotly |
 
-All three are rebuilt versions of tools I first wrote for my own lab work. They use generic or simulated data, so anyone can download and run them.
+All are rebuilt versions of tools I first wrote for my own lab work. They use generic or simulated data, so anyone can download and run them.
 
 #### Toolkit
 
