@@ -8,7 +8,7 @@ I hold a Graduate Certificate in Data Science (RMIT University) and I'm currentl
 
 | Project | What it does | Built with |
 |---|---|---|
-| [seed-train-planner](https://github.com/steven-byrne/seed-train-planner) | Interactive seed train planner: compares expansion strategies and back-schedules passages from a bioreactor start date. **[Try it live](https://upstreamht822.shinyapps.io/seed-train-planner/)** | R, Shiny, Plotly |
+| [seed-train-planner](https://github.com/steven-byrne/seed-train-planner) | Interactive seed train planner: compares expansion strategies and back-schedules passages from a bioreactor start date. **[Try it live](https://steven-byrne.shinyapps.io/seed-train-planner/)** | R, Shiny, Plotly |
 
 All are rebuilt versions of tools I first wrote for my own lab work. They use generic or simulated data, so anyone can download and run them.
 
